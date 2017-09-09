@@ -1,0 +1,15 @@
+name: FirstPlugin
+version: 1.0
+author: Ayoub
+main: fr.ayoub.firstplugin.FirstPlugin
+commands:
+  test:
+    description: Ceci est une commande de test
+    permission: test.use
+  alert:
+    description: Ceci est un broadcast custom
+    permission: perm.use
+  spawn:
+    description: Ceci est une commande pour ce TP au spawn
+  random:
+    description: Ceci est une commande de TP aleatoire (commande indisponible)

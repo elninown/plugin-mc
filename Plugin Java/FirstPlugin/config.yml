@@ -1,0 +1,9 @@
+messages:
+  test: "&2&lBravo tu as reussi le test !"
+kits:
+  soldat: 
+    id: 5
+  boucher: 
+    id: 3
+  chevalier: 
+    id: 10
